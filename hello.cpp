@@ -2,8 +2,8 @@
 
 int main(){
 
-    std::cout << "Hello, world!" << std::endl;
+    std::cout << "Checking dev branch..." << std::endl;
 
     return 0;
-    
+
 }
