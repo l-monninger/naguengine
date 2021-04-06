@@ -1,0 +1,4 @@
+C:/LIAM MONNINGER/Projects/naguengine/CMakeFiles/program.dir
+C:/LIAM MONNINGER/Projects/naguengine/CMakeFiles/engine.dir
+C:/LIAM MONNINGER/Projects/naguengine/CMakeFiles/edit_cache.dir
+C:/LIAM MONNINGER/Projects/naguengine/CMakeFiles/rebuild_cache.dir
